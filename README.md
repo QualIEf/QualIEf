@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C, Lua, Kotlin, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me al.quali.4ef@gmail.com
+- 📫 How to reach me: unknown.sources.Artemisia#1091 / al.quali.4ef@gmail.com
 
 <!---
 QualIEf/QualIEf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
